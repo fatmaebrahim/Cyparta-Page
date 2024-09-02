@@ -16,7 +16,7 @@ To get started with the application, follow these steps:
    
 2. **Navigate to the Project Directory Change to the project directory:**
    ```bash
-    cd Cyparta-Page-main
+    cd Cyparta-Page
 3. **Install Dependencies Install the necessary dependencies using npm:**
     ```bash
     npm install
